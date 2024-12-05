@@ -64,6 +64,6 @@
 </ol>
 
 <h2>Conclusion</h2>
-<p>In this lab, we explored several critical DNS functions. We started by creating an A-record on our Domain Controller, allowing the "mainframe" hostname to resolve to an IP address. We then experimented with local DNS caching on the client machine, observing how cached DNS entries can persist until flushed. Finally, we set up a CNAME record, demonstrating how aliasing works in DNS by redirecting a hostname to another domain.</p>
+<p>In this lab, I explored several critical DNS functions. I started by creating an A-record on our Domain Controller, allowing the "mainframe" hostname to resolve to an IP address. I experimented with local DNS caching on the client machine, observing how cached DNS entries can persist until flushed. Finally, I set up a CNAME record, demonstrating how aliasing works in DNS by redirecting a hostname to another domain.</p>
 
 <p>These exercises demonstrated the importance of DNS in network environments, especially for name resolution and how DNS caching and record types like A-records and CNAMEs operate in a domain environment.</p>
